@@ -1,0 +1,5 @@
+The dataset contains a list of video games with sales greater than 100,000 copies. It includes variables such as the game's Rank, Name, Platform, Year, Genre, Publisher, and regional sales figures (NA, EU, JP, Other) along with Global Sales.
+
+Problem Type: Regression
+Target Variable: Global_Sales
+Goal: learn the relationship between the game features and the market performance to predict the global sales.
